@@ -1,0 +1,8 @@
+.home-container{
+    border:solid;
+    background: -webkit-linear-gradient(top, rgba(48,46,48,1) 0%, rgba(71,71,71,0.96) 22%, rgba(102,102,102,0.92) 51%, rgba(97,95,97,0.87) 84%, rgba(133,131,133,0.84) 100%);
+}
+
+.customer-actions{
+    border:solid;
+}
