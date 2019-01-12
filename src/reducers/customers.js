@@ -3,4 +3,4 @@ import { FETCH_CUSTOMERS } from './../constants/constants';
 
 export const customers = handleActions({
                                     [FETCH_CUSTOMERS]: (state, action)=> [...action.payload],
-                                },[]);
+                                },[] );
